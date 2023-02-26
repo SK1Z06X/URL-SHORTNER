@@ -9,7 +9,7 @@ git clone https://github.com/SK1Z06X/URL-SHORTNER
 cd URL-SHORTNER
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ```
 ls
